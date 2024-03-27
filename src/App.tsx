@@ -1,10 +1,7 @@
-import React from "react";
 import {
   BrowserRouter as Router,
   Route,
   Routes,
-  RouteProps,
-  Navigate,
 } from "react-router-dom";
 import Home from "./Home";
 
